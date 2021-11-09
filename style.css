@@ -1,0 +1,25 @@
+.search{
+    color:#7dc8c8;
+    border:3px solid #7dc8c8;
+    border-radius: 50px;
+    width: 100px;
+}
+.plus{
+    border-radius: 50%;
+    width: 40px;
+    color: white;
+    background-color: #00b1b2;
+    border:3px solid #00b1b2;
+}
+.create{
+    background-color: blue;
+    color: white;
+    box-shadow: 4px 4px 4px black;
+    width: 150px;
+}
+.create, .plus, .search{
+    height: 40px;
+    display: block;
+    border: bold;
+    margin-bottom: 10px;
+}
